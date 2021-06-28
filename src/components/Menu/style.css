@@ -1,0 +1,16 @@
+.mainMenu {
+    background-color: goldenrod;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainMenu--item {
+    list-style: none;
+    padding: 2rem;
+}
+
+.mainMenu--item__link{
+    color: white;
+    padding: inherit;
+    font-size: 1.5rem;
+}

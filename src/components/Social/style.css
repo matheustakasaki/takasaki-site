@@ -1,0 +1,13 @@
+.socialMenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 80%;
+    margin: 0 auto;
+    height: 10vh;
+}
+
+.socialMenu--item__link{
+    font-size: 2rem;
+    color: #fff;
+}
