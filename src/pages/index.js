@@ -13,7 +13,6 @@ const IndexPage = () => {
     <main className='content'>
 
       <title>Home Page</title>
-      <GlobalStyle />
       <section className='mainSection'>
         <Greeting greeting='Hi! I am Matheus Takasaki' />
       </section>
