@@ -1,5 +1,4 @@
 import * as React from "react"
-import { GlobalStyle } from "./global";
 import { Greeting } from "../components/Greeting";
 import '@fontsource/inter'
 import '@fontsource/inter/700.css'
